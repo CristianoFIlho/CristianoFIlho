@@ -1,16 +1,30 @@
-### Hi there 👋
+### Cristtiano Filho 🧐
 
-<!--
-**CristianoFIlho/CristianoFIlho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"faça o simples solucionar o complexo."
 
-Here are some ideas to get you started:
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+		
+   Stacks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java:💻
+<br>
+JavaScript:💻
+<br>
+CSS:💻
+<br>
+HTML5:💻
+<br>
+PHP:💻
+<br>
+Dart:💻
+
+
+
+
+
+
+[website]: https://cristianofilho.github.io/
+[instagram]: https://www.instagram.com/_cristiano.filho/?hl=pt-br
+[linkedin]: https://www.linkedin.com/in/cristiano-filho-16a141150/
