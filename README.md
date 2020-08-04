@@ -19,6 +19,8 @@ HTML5:💻
 PHP:💻
 <br>
 Dart:💻
+<br>
+MySQL:💻
 
 
 
