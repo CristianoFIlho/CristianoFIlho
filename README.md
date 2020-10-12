@@ -10,13 +10,9 @@
 
 Java:💻
 <br>
-JavaScript:💻
-<br>
 CSS:💻
 <br>
 HTML5:💻
-<br>
-PHP:💻
 <br>
 Dart:💻
 <br>
