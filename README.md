@@ -8,7 +8,8 @@ Sou um jovem estudante de engenharia de software, curioso em tecnologias e desen
 
 Stacks: 
 
-Java - Spring Boot
-MySQL
-PHP - Laravel 
+Java - Spring Boot <br>
+MySQL <br>
+PHP - Laravel <br>
+
 
