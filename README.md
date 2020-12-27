@@ -12,6 +12,7 @@ Java - Spring Boot <br>
 MySQL <br>
 PHP - Laravel <br>                                               
 
- My website 👇🏽 <br> ![My website](https://dyn-qrcode.vercel.app/api?url=https://cristianofilho.github.io/)
+ My website 👇🏽 <br> ![My website](https://dyn-qrcode.vercel.app/api?url=https://cristianofilho.github.io/ 
+ ((https://cristianofilho.github.io/))
 
 
