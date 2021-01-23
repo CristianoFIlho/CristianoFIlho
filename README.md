@@ -6,7 +6,7 @@ Software engineer in training
 
 I am a young student of software engineering, curious about technologies and application development, always looking for personal and interpersonal development.
 
-Stacks: 
+### Stacks: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -23,3 +23,7 @@ Stacks:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianoFIlho&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Codeing Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
