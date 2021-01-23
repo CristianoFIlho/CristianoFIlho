@@ -1,4 +1,4 @@
-# Cristiano Filho
+### Hello World I am Cristiano Filho
 
 Software engineer in training
 
@@ -15,4 +15,11 @@ Stacks:
 
  My website 👇🏽 <br> [![My website](https://dyn-qrcode.vercel.app/api?url=https://cristianofilho.github.io/)](https://cristianofilho.github.io/)
 
+### Profile Visits:
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CristianoFIlho.CristianoFIlho)
+
+### Github stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianoFIlho&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Codeing Stats
