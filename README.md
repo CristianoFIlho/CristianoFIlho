@@ -22,8 +22,3 @@ I am a young student of software engineering, curious about technologies and app
 ### Github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianoFIlho&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Codeing Stats
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
