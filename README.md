@@ -17,7 +17,6 @@ I am a young student of software engineering, curious about technologies and app
 ![React](https://img.shields.io/badge/-React-1846EB?style=flat-square&logo=react&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-643FF5?style=flat-square&logo=visual-studio&logoColor=fff)
 ![Postgresql](https://img.shields.io/badge/-postgresql-00758F?style=flat-square&logo=postgresql&logoColor=fff)
-![Node](https://img.shields.io/badge/-React-1846EB?style=flat-square&logo=node&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-3f74a3?style=flat-square&logo=Flutter&logoColor=63c9f8)
 
 
