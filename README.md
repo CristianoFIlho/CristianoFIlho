@@ -1,6 +1,6 @@
 ## Hello World ✋ I am Cristiano Filho  
 
-<a href="https://ibb.co/rG347sm"><img alt="Cristiano" src="https://ibb.co/rG347sm"/></a>
+ <br> [![My website](https://i.ibb.co/SXcRsrP/android-chrome-512x512.png)](https://ibb.co/rG347sm)
 
 Software engineer in training | Full-Stack Developer
 
