@@ -21,7 +21,7 @@ I am a young student of software engineering, curious about technologies and app
 
 
 
- My website 👇🏽 <br> [![My website](https://dyn-qrcode.vercel.app/api?url=https://cristianofilho.github.io/)](https://cristianofilho.github.io/)
+ My website 👇🏽 <br> [![My website](https://ibb.co/bJHfn7w)](https://cristianofilho.github.io/)
 
 ### Profile Visits:
 
