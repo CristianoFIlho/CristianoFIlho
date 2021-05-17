@@ -17,16 +17,8 @@ I am a young student of software engineering, curious about technologies and app
 
 ### Stacks: 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-FF8901?style=flat-square&logo=git&logoColor=fff)
-![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=fff)
-![React](https://img.shields.io/badge/-React-1846EB?style=flat-square&logo=react&logoColor=fff)
-![VSCode](https://img.shields.io/badge/-VSCode-643FF5?style=flat-square&logo=visual-studio&logoColor=fff)
-![Postgresql](https://img.shields.io/badge/-postgresql-00758F?style=flat-square&logo=postgresql&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-3f74a3?style=flat-square&logo=Flutter&logoColor=63c9f8)
+ <br> [![Stacks](https://i.ibb.co/rxRtS9N/Stacks.png)](https://cristianofilho.com.br)
+
 
 
  My website 👇🏽 <br> [![My website](https://dyn-qrcode.vercel.app/api?url=https://cristianofilho.github.io/)](https://cristianofilho.github.io/)
