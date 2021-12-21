@@ -1,6 +1,6 @@
 ## Hello World ✋ I am Cristiano Filho  
 
-
+![Snake animation](https://github.com/CristianoFIlho/CristianoFIlho/blob/output/github-contribution-grid-snake.svg)
 
 Software engineer in training | Full-Stack Developer
 
