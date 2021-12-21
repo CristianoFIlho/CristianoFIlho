@@ -28,9 +28,11 @@ I am a young student of software engineering, curious about technologies and app
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CristianoFIlho.CristianoFIlho)
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoFIlho&theme=tokyonight)](https://github.com/CristianoFIlho/github-readme-stats) 
-### Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristianoFIlho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/CristianoFIlho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoFIlho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoFIlho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
