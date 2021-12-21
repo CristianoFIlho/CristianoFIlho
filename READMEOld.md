@@ -1,6 +1,8 @@
 ## Hello World ✋ I am Cristiano Filho  
 
+<br> [![Logo](https://i.ibb.co/jLs6VRN/cristianofilho.png)](https://cristianinho.netlify.app)
 
+ <br> [![Logo](https://i.ibb.co/ZXJfBr5/cristiano.png)](https://cristianofilho.com.br)
 
 Software engineer in training | Full-Stack Developer
 
@@ -16,6 +18,10 @@ I am a young student of software engineering, curious about technologies and app
 ### Stacks: 
 
  <br> [![Stacks](https://i.ibb.co/bNwzZ5x/Stacks.png)](https://cristianofilho.com.br)
+
+
+
+ My website 👇🏽 <br> [![My website](https://i.ibb.co/Ryh5W7r/Untitled-design.gif)](https://cristianofilho.github.io/)
 
 ### Profile Visits:
 
