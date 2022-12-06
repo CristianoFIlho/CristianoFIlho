@@ -18,7 +18,10 @@ I am a young student of software engineering, curious about technologies and app
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CristianoFIlho.CristianoFIlho)
 
-### Languages
+### Languages and Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 <div align="center">
   <a href="https://github.com/CristianoFIlho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoFIlho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
