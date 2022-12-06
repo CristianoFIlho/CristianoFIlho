@@ -4,7 +4,7 @@
 
 Software engineer in training | Full-Stack Developer 
 
-I am a young student of software engineering, curious about technologies and application development, always looking for personal and interpersonal development.
+I'm a young software engineering student, curious about technologies and application development, and always looking for personal and interpersonal development, enthusiastic about machine learning, deep learning and data science.
 
 <a href="https://twitter.com/crisfilho98"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@crisfilho98-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/EliasGcf"/></a>
 <a href="https://www.linkedin.com/in/cristiano-filho/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Cristiano%20Filho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasgcf/"/></a>
