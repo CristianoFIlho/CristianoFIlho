@@ -13,9 +13,6 @@ Software engineer in training | Full-Stack Developer
 
 I am a young student of software engineering, curious about technologies and application development, always looking for personal and interpersonal development.
 
-### Stacks: 
-
- <br> [![Stacks](https://i.ibb.co/bNwzZ5x/Stacks.png)](https://cristianofilho.github.io/)
 
 ### Profile Visits:
 
