@@ -2,15 +2,7 @@
 
 ![Snake animation](https://github.com/CristianoFIlho/CristianoFIlho/blob/output/github-contribution-grid-snake.svg)
 
-<style>
-  .div1 {
-    display: inline-block;
-    align="right";
-  }
-  .div2 {
-    display: inline-block;
-  }
-</style>
+
 
 
 <div class="div2">    
