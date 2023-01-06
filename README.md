@@ -35,7 +35,7 @@
 ### 
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;My-Skils:&nbsp;</b></summary>
+  <summary><b>✨&nbsp;&nbsp;My-Skils :&nbsp;</b></summary>
   <br/>
 
 
