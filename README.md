@@ -18,17 +18,25 @@
 
 
 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=CristianoFIlho.CristianoFIlho)
 
 
 <a href="https://app.daily.dev/cristianofilho"><img src="https://api.daily.dev/devcards/f348cd3d261d4662aff96d15a144de90.png?r=0xg" width="250" alt="Cristiano Filho ✅'s Dev Card"/></a>
+<details>
+  <summary><b>✨&nbsp;&nbsp;Most Used Languages:&nbsp;</b></summary>
+  <br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoFIlho&layout=compact&langs_count=7&theme=dracula"/>
+  </datails>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CristianoFIlho.CristianoFIlho)
 
 
 
-### Profile Visits:
+### 
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;My-Skils:&nbsp;</b></summary>
+  <br/>
 
 
 <!--   my-skils -->
@@ -42,8 +50,12 @@
 | **OS**                                          |     ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                                                                                               |
 | **Tools & Platform**                            | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Frameworks** | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![RASA](https://img.shields.io/badge/Rasa-5A17EE.svg?style=for-the-badge&logo=Rasa&logoColor=white)  ![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+</details> 
 
 
+<details>
+  <summary><b>✨&nbsp;&nbsp;Highlight Github :&nbsp;</b></summary>
+  <br/>
 <div align="center">
   <a href="https://github.com/CristianoFIlho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoFIlho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -52,8 +64,9 @@
 
 
 
-
 <div align="center">
 <p><img height=180em  src="https://github-readme-streak-stats.herokuapp.com/?user=CristianoFIlho&&theme=tokyonight" alt="cristianofilho" /></p>
 
 </div>
+
+  </details>
