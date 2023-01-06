@@ -21,8 +21,10 @@
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=CristianoFIlho.CristianoFIlho)
 
-
-<a href="https://app.daily.dev/cristianofilho"><img src="https://api.daily.dev/devcards/f348cd3d261d4662aff96d15a144de90.png?r=0xg" width="250" alt="Cristiano Filho ✅'s Dev Card"/></a>
+<div align="right">
+  
+  <a href="https://app.daily.dev/cristianofilho"><img src="https://api.daily.dev/devcards/f348cd3d261d4662aff96d15a144de90.png?r=0xg" width="250" alt="Cristiano Filho ✅'s Dev Card"/></a>
+</div>
 <details>
   <summary><b>✨&nbsp;&nbsp;Most Used Languages :&nbsp;</b></summary>
   <br/>
