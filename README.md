@@ -28,7 +28,7 @@
   <a href="https://app.daily.dev/cristianofilho"><img src="https://api.daily.dev/devcards/f348cd3d261d4662aff96d15a144de90.png?r=0xg" width="250" alt="Cristiano Filho ✅'s Dev Card"/></a>
 </div>
 <details>
-  <summary><b>✨&nbsp;&nbsp;Most Used Languages :&nbsp;</b></summary>
+  <summary><b>💻&nbsp;&nbsp;Most Used Languages :&nbsp;</b></summary>
   <br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoFIlho&layout=compact&langs_count=7&theme=dracula"/>
   </datails>
@@ -40,7 +40,7 @@
 ### 
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;My-Skils :&nbsp;</b></summary>
+  <summary><b>🖱️&nbsp;&nbsp;My-Skils :&nbsp;</b></summary>
   <br/>
 
 
@@ -59,19 +59,18 @@
 
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;Highlight Github :&nbsp;</b></summary>
+
+
+
+
+
+  <summary><b>📉&nbsp;&nbsp;Highlight Github :&nbsp;</b></summary>
   <br/>
-<div align="center">
-  <a href="https://github.com/CristianoFIlho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoFIlho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-</div>
 
-
-
-<div align="center">
-<p><img height=180em  src="https://github-readme-streak-stats.herokuapp.com/?user=CristianoFIlho&&theme=tokyonight" alt="cristianofilho" /></p>
-
-</div>
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=CristianoFIlho&&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=CristianoFIlho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) |
+| :-: | :-: | 
 
   </details>
+
+  
+ 
