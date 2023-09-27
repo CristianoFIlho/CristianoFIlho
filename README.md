@@ -2,7 +2,6 @@
 
 <div align="center">
 
- ![Snake animation](https://github.com/CristianoFIlho/CristianoFIlho/blob/output/github-contribution-grid-snake.svg) 
 
 </div>
 
