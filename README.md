@@ -20,7 +20,7 @@
 
 
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=CristianoFIlho.CristianoFIlho)
+
 
 <div align="right">
   
